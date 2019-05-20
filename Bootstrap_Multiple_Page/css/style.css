@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Handlee');
+body {
+    font-family: 'Handlee', cursive;
+}
+
+.homeresources img{
+    margin:10px 0;
+}
+.tooltipstyle{
+     color:black;
+    background-color:yellow;
+}
+.tooltip{
+  background-color:blue;
+}
+.footer{
+    height:200px;
+    background-color: #ddd;
+}
+
+.myform{
+    padding:10px;
+    border:1px solid #eee;
+    margin:10px;
+}
